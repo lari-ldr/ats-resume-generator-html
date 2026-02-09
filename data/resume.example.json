@@ -1,101 +1,89 @@
 {
-  "name": "FABRICIO TRINDADE",
-  "title": "Full Stack • Web Development",
-  "email": "example@email.com",
-  "phone_e164": "+10000000000",
-  "phone_display": "(00) 00000-0000",
+  "name": "LARISSA DANTAS REQUENA",
+  "title": "Full-Stack Engineer (Front-End Leaning) | React | TypeScript | Angular | UI/UX | APIs",
+  "email": "larissa.ldr@gmail.com",
+  "phone_e164": "+5511986654709",
+  "phone_display": "+55 (11) 98665-4709",
   "location": "Remote / Brazil",
-  "linkedin_url": "https://www.linkedin.com/in/example-profile",
-  "github_url": "https://github.com/example-user",
-  "website_url": "https://example.com",
+  "linkedin_url": "https://www.linkedin.com/in/larissarequena",
+  "github_url": "https://github.com/lari-ldr",
+  "website_url": "",
 
-  "summary": "Computer Science student with a strong foundation in programming logic and hands-on experience building web applications and APIs. Familiar with cloud fundamentals, system troubleshooting, and structured problem-solving. Seeking an internship focused on cloud infrastructure, monitoring, and automation, with emphasis on clean architecture and ATS-friendly documentation.",
+  "summary": "Front-End leaning Full-Stack Engineer with 5+ years of experience building and scaling user-facing web applications used by thousands of users. Strong background in React, TypeScript, Angular, and modern SPA architectures, with hands-on experience delivering end-to-end features across the stack. Comfortable working in high-ownership environments, collaborating closely with Product, Design, and Engineering to translate ambiguous requirements into intuitive, high-impact solutions. Strong interest in UI/UX, performance optimization, and building products that are both technically robust and delightful to use.",
 
   "skills": [
     {
-      "group": "Programming",
-      "items": ["JavaScript", "Node.js", "HTML", "CSS", "SQL"]
+      "group": "Frontend",
+      "items": ["React", "Angular", "TypeScript, JavaScript (ES6+)","HTML5", "CSS3", "State Management (Redux, Context API)", "Responsive & accessible UI development"]
     },
     {
-      "group": "Frameworks",
-      "items": ["Next.js", "Express.js", "React"]
+      "group": "Backend & Systems",
+      "items": ["RESTful APIs", "HTTP & client–server communication (Axios)", "Java", "Spring Boot (foundational full-stack experience)", "SPA architectures"]
     },
     {
-      "group": "Databases",
-      "items": ["PostgreSQL", "MongoDB", "ORM concepts"]
+      "group": "Engineering Practices",
+      "items": ["Git & version control", "Design Patterns", "SOLID principles", "Component-driven development", "BEM methodology", "Performance optimization & debugging"]
     },
     {
-      "group": "Cloud & Infrastructure",
-      "items": [
-        "Cloud fundamentals",
-        "Monitoring concepts",
-        "Networking basics",
-        "Linux basics"
-      ]
-    },
-    {
-      "group": "Tools",
-      "items": ["Git", "GitHub", "Docker", "CI/CD concepts"]
+      "group": "Design & Collaboration",
+      "items": ["UI/UX design fundamentals", "Figma (flows, wireframes, mockups)", "Cross-functional collaboration with Product", "Design", "QA"]
     }
   ],
 
   "projects": [
     {
-      "title": "Full Stack Web Application",
-      "stack": "Node.js, REST APIs, PostgreSQL",
+      "title": "Weex",
+      "stack": "React.js, Angular, Java, Spring Boot, Postgresql, Figma",
       "bullets": [
-        "Designed and implemented a full stack web application with a clear separation of concerns",
-        "Built RESTful APIs with authentication and basic access control",
-        "Applied structured data modeling and version control best practices"
+        "Brazil’s largest corporate health campaign & SIPAT platform (SaaS)",
+        "Contributed to the development of a large-scale platform used nationwide, supporting thousands of users.",
+        "Participated in the entire product lifecycle, from discovery and UX definition to feature delivery and continuous iteration.",
+        "Helped drive UX improvements and functional enhancements, focusing on usability, clarity, and performance.",
+        "Delivered full-stack features by working closely with backend services to ensure seamless integration and reliable user flows."
       ],
       "links": [
         {
-          "label": "Repository",
-          "url": "https://github.com/example-user/sample-project"
+          "label": "Site",
+          "url": "https://weex.digital/"
         }
-      ]
-    },
-    {
-      "title": "Personal Automation Tool",
-      "stack": "JavaScript, Node.js",
-      "bullets": [
-        "Developed a small automation script to streamline repetitive tasks",
-        "Focused on code readability, maintainability, and documentation",
-        "Practiced modular design and error handling"
       ]
     }
   ],
 
   "experience": [
     {
-      "role": "Technical Support Analyst",
-      "company": "Example Technology Company",
-      "date": "2021 — Present",
+      "role": "Full-Stack Engineer (Front-End Leaning)",
+      "company": "Itexto Consultoria em Tecnologia da Informação",
+      "date": "02/2021 — Present",
       "bullets": [
-        "Provided technical support and troubleshooting for systems and network-related issues",
-        "Assumed operational coordination responsibilities on multiple occasions, organizing tasks and prioritizing incidents",
-        "Communicated technical problems clearly to both technical and non-technical stakeholders"
+        "Built and maintained scalable front-end applications using React and Angular, delivering responsive and high-performance interfaces for web platforms.",
+        "Took end-to-end ownership of features, from discovery and requirement gathering through implementation, testing, and production support.",
+        "Collaborated closely with Product Managers, Designers, and Engineers to understand user needs and design solutions aligned with business goals.",
+        "Co-designed UI/UX flows and interfaces in Figma, translating hypotheses and product ideas into clean, intuitive user experiences.",
+        "Integrated front-end applications with REST APIs, ensuring reliable data flow and robust client-server communication.",
+        "Investigated and resolved production issues, improving system stability, usability, and performance.",
+        "Applied software design patterns, SOLID principles, and best practices to ensure maintainable and scalable codebases."
       ]
     }
   ],
 
   "education": [
     {
-      "title": "Bachelor’s Degree in Computer Science",
-      "subtitle": "Example University",
-      "date": "In progress — Expected 2029"
+      "title": "Bachelor of Science in Software Engineering",
+      "subtitle": "UNINTER",
+      "date": "In progress — Expected 02/2027"
     },
     {
-      "title": "Associate Degree in Systems Analysis and Development",
-      "subtitle": "Example University",
-      "date": "Completed — 2023"
+      "title": "Bachelor of Laws (LL.B)",
+      "subtitle": "Faculdades Metropolitanas Unidas",
+      "date": "Completed — 08/2022"
     }
   ],
 
   "languages": [
     {
       "name": "English",
-      "level": "Intermediate",
+      "level": "Advanced",
       "note": "Technical reading and conversational skills"
     }
   ]
