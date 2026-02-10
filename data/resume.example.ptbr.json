@@ -1,0 +1,86 @@
+{
+  "name": "LARISSA DANTAS REQUENA",
+  "title": "Desenvolvedor(a) Fullstack Pleno (Java e React + TypeScript) | Foco em Frontend",
+  "email": "larissa.ldr@gmail.com",
+  "phone_e164": "+5511986654709",
+  "phone_display": "+55 (11) 98665-4709",
+  "location": "São Bernardo do Campo - São Paulo, Brasil",
+  "linkedin_url": "https://www.linkedin.com/in/larissarequena",
+  "github_url": "https://github.com/lari-ldr",
+  "website_url": "",
+
+  "summary": "Desenvolvedor(a) Fullstack Pleno com 5 anos de experiência. Expertise em desenvolver interfaces modernas, intuitivas e responsivas com ReactJS + TypeScript, criar e manter componentes reutilizáveis seguindo boas práticas de UI/UX e Design System (Ant Design). Experiência em desenvolver e manter serviços em back-end, com foco em boas práticas, performance, segurança e integração front e back-end, sempre garantindo fluxos consistentes e bem estruturados. Forte participação em discussões de arquitetura e decisões técnicas com o time de engenharia e produto, sempre propondo melhorias contínuas em usabilidade, performance, estrutura de código e processos de desenvolvimento.",
+
+  "skills": [
+    {
+      "group": "Frontend",
+      "items": ["ReactJS", "TypeScript", "UI/UX", "Boas práticas de componentização", "Design System (Ant Design)"]
+    },
+    {
+      "group": "Backend",
+      "items": ["Java (17+ e 21)", "Spring Boot", "Integração entre front e back-end", "Vivência com APIs RESTful (consumo e desenvolvimento)", "Noções de arquitetura web", "Mensageria com Apache Camel", "Bancos relacionais: PostgreSQL e MySQL", "JUnit"]
+    },
+    {
+      "group": "Boas Práticas e Ferramentas",
+      "items": ["Git e Git Flow", "SOLID", "Design Patterns", "Clean Code", "Code Review", "Documentação técnica"]
+    }
+  ],
+
+  "projects": [
+    {
+      "title": "Weex - Plataforma de campanhas de saúde e SIPAT",
+      "stack": "React.js, Angular, TypeScript, Java, Spring Boot, PostgreSQL, Figma",
+      "bullets": [
+        "Atuação no desenvolvimento e evolução da maior plataforma de campanhas de saúde corporativa do Brasil",
+        "Participação desde a análise de requisitos até a implementação final",
+        "Criação de interfaces, evolução contínua do produto e integração com serviços backend",
+        "Trabalho próximo aos times de produto e design para transformar requisitos em soluções escaláveis e performáticas"
+      ],
+      "links": [
+        {
+          "label": "Site",
+          "url": "https://weex.digital/"
+        }
+      ]
+    }
+  ],
+
+  "experience": [
+    {
+      "role": "Desenvolvedor(a) Fullstack Pleno",
+      "company": "Itexto Consultoria em Tecnologia da Informação",
+      "date": "02/2021 — Presente",
+      "bullets": [
+        "Desenvolvimento de interfaces modernas, intuitivas e responsivas utilizando ReactJS, TypeScript e Angular, com foco em usabilidade e acessibilidade",
+        "Criação e manutenção de componentes reutilizáveis, seguindo boas práticas de UI/UX e Design System",
+        "Integração entre front-end e back-end, garantindo fluxos consistentes e bem estruturados",
+        "Desenvolvimento, manutenção e otimização de serviços backend em Java com Spring Boot, garantindo boas práticas, performance e segurança",
+        "Consumo e desenvolvimento de APIs RESTful",
+        "Participação em discussões técnicas e decisões de arquitetura",
+        "Realização de code reviews, documentação de processos e apoio técnico ao time",
+        "Atuação direta na resolução de bugs em produção, tanto no front quanto no back-end"
+      ]
+    }
+  ],
+
+  "education": [
+    {
+      "title": "Graduação em Engenharia de Software",
+      "subtitle": "UNINTER",
+      "date": "Cursando — conclusão prevista em 02/2027"
+    },
+    {
+      "title": "Graduação em Direito",
+      "subtitle": "Faculdades Metropolitanas Unidas - FMU",
+      "date": "08/2022"
+    }
+  ],
+
+  "languages": [
+    {
+      "name": "Inglês",
+      "level": "Avançado",
+      "note": ""
+    }
+  ]
+}

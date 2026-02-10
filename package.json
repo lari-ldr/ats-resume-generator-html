@@ -4,6 +4,7 @@
   "type": "module",
   "scripts": {
     "build": "node scripts/render.mjs",
+    "build-ptbr": "node scripts/render-ptbr.mjs",
     "pdf": "node scripts/export-pdf.mjs"
   },
   "dependencies": {
