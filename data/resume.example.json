@@ -1,45 +1,86 @@
 {
   "name": "LARISSA DANTAS REQUENA",
-  "title": "Full-Stack Engineer (Front-End Leaning) | React | TypeScript | Angular | UI/UX | APIs",
+  "title": "Front End Developer | React | TypeScript | Angular | UI/UX | APIs",
   "email": "larissa.ldr@gmail.com",
   "phone_e164": "+5511986654709",
   "phone_display": "+55 (11) 98665-4709",
-  "location": "Remote / Brazil",
+  "location": "São Bernardo do Campo - São Paulo, Brazil",
   "linkedin_url": "https://www.linkedin.com/in/larissarequena",
   "github_url": "https://github.com/lari-ldr",
   "website_url": "",
 
-  "summary": "Front-End leaning Full-Stack Engineer with 5+ years of experience building and scaling user-facing web applications used by thousands of users. Strong background in React, TypeScript, Angular, and modern SPA architectures, with hands-on experience delivering end-to-end features across the stack. Comfortable working in high-ownership environments, collaborating closely with Product, Design, and Engineering to translate ambiguous requirements into intuitive, high-impact solutions. Strong interest in UI/UX, performance optimization, and building products that are both technically robust and delightful to use.",
+  "summary": "Front-End Engineer with 5+ years of experience building modern, scalable, and high-performance web applications using Angular and TypeScript. Specialized in translating design concepts into modular, reusable UI components with strong attention to responsiveness, usability, accessibility, and visual consistency. Experienced in collaborating cross-functionally with engineering, product, and design teams to deliver intuitive digital experiences in high-traffic environments, including large-scale web platforms. Strong focus on front-end performance optimization, clean architecture, maintainability, and continuous improvement.",
 
   "skills": [
     {
-      "group": "Frontend",
-      "items": ["React", "Angular", "TypeScript, JavaScript (ES6+)","HTML5", "CSS3", "State Management (Redux, Context API)", "Responsive & accessible UI development"]
+      "group": "Frontend Engineering",
+      "items": [
+        "Angular",
+        "TypeScript",
+        "JavaScript (ES6+)",
+        "React",
+        "HTML5",
+        "CSS3",
+        "Responsive & adaptive design",
+        "Accessible UI development (a11y)",
+        "Component-based architecture",
+        "SPA development"
+      ]
     },
     {
-      "group": "Backend & Systems",
-      "items": ["RESTful APIs", "HTTP & client–server communication (Axios)", "Java", "Spring Boot (foundational full-stack experience)", "SPA architectures"]
+      "group": "Performance & Optimization",
+      "items": [
+        "Front-end performance optimization",
+        "Load time improvement",
+        "SEO fundamentals (semantic HTML, structure)",
+        "Code refactoring",
+        "Scalable and maintainable architecture"
+      ]
+    },
+    {
+      "group": "Data & Integration",
+      "items": [
+        "RESTful APIs",
+        "HTTP & client-server communication (Axios)",
+        "State management (Redux, Context API)",
+        "API integration",
+        "Backend collaboration (Java, Spring Boot)"
+      ]
     },
     {
       "group": "Engineering Practices",
-      "items": ["Git & version control", "Design Patterns", "SOLID principles", "Component-driven development", "BEM methodology", "Performance optimization & debugging"]
+      "items": [
+        "Git & version control",
+        "Code reviews",
+        "SOLID principles",
+        "Design Patterns",
+        "BEM methodology",
+        "Agile methodologies",
+        "Technical documentation"
+      ]
     },
     {
-      "group": "Design & Collaboration",
-      "items": ["UI/UX design fundamentals", "Figma (flows, wireframes, mockups)", "Cross-functional collaboration with Product", "Design", "QA"]
+      "group": "Design & Product Collaboration",
+      "items": [
+        "Figma (flows, wireframes, mockups)",
+        "Design systems",
+        "Cross-functional collaboration",
+        "Usability testing support",
+        "User feedback analysis"
+      ]
     }
   ],
 
   "projects": [
     {
       "title": "Weex",
-      "stack": "React.js, Angular, Java, Spring Boot, Postgresql, Figma",
+      "stack": "Angular, React, TypeScript, Java, Spring Boot, PostgreSQL, Figma",
       "bullets": [
-        "Brazil’s largest corporate health campaign & SIPAT platform (SaaS)",
-        "Contributed to the development of a large-scale platform used nationwide, supporting thousands of users.",
-        "Participated in the entire product lifecycle, from discovery and UX definition to feature delivery and continuous iteration.",
-        "Helped drive UX improvements and functional enhancements, focusing on usability, clarity, and performance.",
-        "Delivered full-stack features by working closely with backend services to ensure seamless integration and reliable user flows."
+        "Contributed to Brazil’s largest corporate health campaign & SIPAT SaaS platform, supporting thousands of users nationwide.",
+        "Developed modular and reusable Angular components aligned with the design system, ensuring scalability and consistency.",
+        "Delivered responsive and adaptive interfaces optimized for desktop, tablet, and mobile devices.",
+        "Improved usability and performance through iterative UI refinements based on stakeholder and user feedback.",
+        "Collaborated closely with backend engineers to ensure accurate business logic integration and reliable data flows."
       ],
       "links": [
         {
@@ -52,17 +93,18 @@
 
   "experience": [
     {
-      "role": "Full-Stack Engineer (Front-End Leaning)",
+      "role": "Front End Developer",
       "company": "Itexto Consultoria em Tecnologia da Informação",
       "date": "02/2021 — Present",
       "bullets": [
-        "Built and maintained scalable front-end applications using React and Angular, delivering responsive and high-performance interfaces for web platforms.",
-        "Took end-to-end ownership of features, from discovery and requirement gathering through implementation, testing, and production support.",
-        "Collaborated closely with Product Managers, Designers, and Engineers to understand user needs and design solutions aligned with business goals.",
-        "Co-designed UI/UX flows and interfaces in Figma, translating hypotheses and product ideas into clean, intuitive user experiences.",
-        "Integrated front-end applications with REST APIs, ensuring reliable data flow and robust client-server communication.",
-        "Investigated and resolved production issues, improving system stability, usability, and performance.",
-        "Applied software design patterns, SOLID principles, and best practices to ensure maintainable and scalable codebases."
+        "Design, develop, and maintain scalable web applications using Angular and TypeScript, emphasizing modular, reusable, and maintainable components.",
+        "Build responsive, high-performance user interfaces ensuring consistent UX across desktop, tablet, and mobile environments.",
+        "Translate Figma design concepts and wireframes into pixel-accurate, production-ready interfaces.",
+        "Collaborate cross-functionally with Product Managers, Designers, QA, and Backend Engineers to align UI behavior with business logic and product strategy.",
+        "Optimize front-end performance by improving load times, refactoring legacy code, and applying clean architecture principles.",
+        "Participate in code reviews and contribute to continuous improvement of front-end standards and best practices.",
+        "Support usability improvements by analyzing user feedback and iterating on interface enhancements.",
+        "Document components, workflows, and technical decisions to improve maintainability and long-term scalability."
       ]
     }
   ],
@@ -71,12 +113,12 @@
     {
       "title": "Bachelor of Science in Software Engineering",
       "subtitle": "UNINTER",
-      "date": "In progress — Expected 02/2027"
+      "date": "Expected 02/2027"
     },
     {
       "title": "Bachelor of Laws (LL.B)",
       "subtitle": "Faculdades Metropolitanas Unidas",
-      "date": "Completed — 08/2022"
+      "date": "08/2022"
     }
   ],
 
@@ -84,7 +126,7 @@
     {
       "name": "English",
       "level": "Advanced",
-      "note": "Technical reading and conversational skills"
+      "note": "Professional working proficiency"
     }
   ]
 }
